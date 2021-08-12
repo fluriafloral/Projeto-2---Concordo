@@ -1,0 +1,25 @@
+create-user email senha fulano
+login email senha
+create-server 0 server
+list-servers 0
+list-participants 0
+list-channels 0
+create-channel 0 canal
+list-channels 0
+enter-channel 0 canal
+send-message 0 trabalho grande da mulesta esse de lp viu
+list-messages 0
+leave-channel 0
+disconnect 0
+create-user email1 senha1 ciclano
+login email1 senha1
+list-servers 1
+enter-server 1 server
+list-participants 1
+create-channel 1 canal
+enter-channel 1 canal
+send-message 1 tenho mais nem dedo dps de tanto codar
+list-messages 1
+leave-channel 1
+disconnect 1
+quit

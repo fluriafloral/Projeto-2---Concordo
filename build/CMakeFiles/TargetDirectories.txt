@@ -1,0 +1,3 @@
+/home/fluriafloral/projeto2-concordo-fluriafloral/build/CMakeFiles/rebuild_cache.dir
+/home/fluriafloral/projeto2-concordo-fluriafloral/build/CMakeFiles/concordo.dir
+/home/fluriafloral/projeto2-concordo-fluriafloral/build/CMakeFiles/edit_cache.dir
